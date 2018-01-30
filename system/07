@@ -1,0 +1,1 @@
+ps aux | grep "sshd" | grep -v "sshd_config" | awk '{print$2}'
