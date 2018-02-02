@@ -1,1 +1,0 @@
-ifconfig bridge0 | grep "ether" | awk '{print$2}'
