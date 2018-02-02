@@ -1,3 +1,4 @@
+echo " 0 0 * * * $(pwd)/04.sh" >> /etc/crontab
 file=/etc/crontab
 IFS= read -r line
 md5sum='md5sum $file | awk '{print$1}''
