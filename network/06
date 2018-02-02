@@ -1,1 +1,1 @@
-Need to find
+To find the IP of the dns server your using you can open the file /etc/resolv.conf

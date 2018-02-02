@@ -1,1 +1,1 @@
-ssh status
+service ssh status

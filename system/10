@@ -1,1 +1,1 @@
-diskutil list
+fdisk -l

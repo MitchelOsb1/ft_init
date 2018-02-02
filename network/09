@@ -1,1 +1,1 @@
-The difference between using an external dns is the query time, also when using an external server it could only handle 512 bytes verses 4096 bytes when using your own dns server.
+The ips are the same, the only differnce is packet size.
