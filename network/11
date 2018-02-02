@@ -1,1 +1,1 @@
-route -n get slash16.org | grep "gateway"
+The link that connects this device with the outside world would be the gateway.
